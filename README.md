@@ -65,5 +65,5 @@ This work is supported by Google under the GIG funding scheme. The authors also 
 
 **Open Access:** For open access purposes, the authors have applied a Creative Commons Attribution (CC BY) licence to any Author Accepted Manuscript version arising.
 
-**Data Access Statement:** The dataset will be publicly only upon accaptance.
+**Data Access Statement:** The dataset will be publicly available upon acceptance.
 
