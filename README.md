@@ -58,8 +58,9 @@ Make sure all necessary paths are provided correctly.
 ```
 
 ## Acknowledgement
-**Funding:** [N. Churamani](https://nchuramani.github.io), [F.I. Dogan](https://www.irmakdogan.com), [Y. Malladi] (), and [H. Gunes](https://www.cl.cam.ac.uk/~hg410/) are with the Department of Computer Science and Technology, University of Cambridge, UK.
+**Funding:** [N. Churamani](https://nchuramani.github.io), [F.I. Dogan](https://www.irmakdogan.com), and [H. Gunes](https://www.cl.cam.ac.uk/~hg410/) are with the Department of Computer Science and Technology, University of Cambridge, UK.
 [S. Checker](https://www.sakshamchecker.com) is with King's College London, UK, and contributed to this work while undertaking a remote visiting studentship at the Department of Computer Science and Technology, University of Cambridge. 
+[Y. Malladi] is with the Department of Engineering, University of Cambridge, UK.
 [H.T.L. Chiang](https://sites.google.com/view/lewispro/home) is with Google DeepMind.
 This work is supported by Google under the GIG funding scheme. The authors also thank Jie Tan and Carolina Parada for their valuable feedback.
 
